@@ -6,7 +6,7 @@ Ini adalah proyek latihan **Pengelolaan Buku Digital** berbasis **PHP Native** (
 
 ## 🎯 Tujuan Proyek
 
-Membangun aplikasi web sederhana untuk mencatat informasi tamu yang berkunjung ke sebuah instansi (seperti kantor kelurahan), menyimpan data ke database, dan menampilkannya kembali dalam bentuk tabel.
+Membangun aplikasi web sederhana untuk mencatat informasi buku yang tersedia di instansi (seperti kantor kelurahan), menyimpan data ke database, dan menampilkannya kembali dalam bentuk tabel.
 
 ---
 
