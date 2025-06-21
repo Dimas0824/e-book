@@ -1,0 +1,17 @@
+{
+    "name": "62857/e-tamu",
+    "autoload": {
+        "psr-4": {
+            "62857\\ETamu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimas0824",
+            "email": "143877889+Dimas0824@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.10"
+    }
+}
