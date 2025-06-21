@@ -1,4 +1,4 @@
-# 📘 Buku Tamu Digital - PHP Native (Procedural)
+# 📘 Buku Digital (E-Book) - PHP Native (Procedural)
 
 Ini adalah proyek latihan **Pengelolaan Buku Digital** berbasis **PHP Native** (tanpa framework), disusun sebagai persiapan untuk **sertifikasi Junior Web Developer (JWD)** dalam program **Digitalent VSGA**.
 
